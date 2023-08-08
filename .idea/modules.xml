@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week 3 abstract_factory/week 3 abstract_factory.iml" filepath="$PROJECT_DIR$/week 3 abstract_factory/week 3 abstract_factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week 4 burger update using builder_dp/week 4 burger using builder_dp.iml" filepath="$PROJECT_DIR$/week 4 burger update using builder_dp/week 4 burger using builder_dp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week 5 protobuf to xml using adapter dp/week 5 protobuj to xml using adapter dp.iml" filepath="$PROJECT_DIR$/week 5 protobuf to xml using adapter dp/week 5 protobuj to xml using adapter dp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week 2 solid principles/week2.iml" filepath="$PROJECT_DIR$/week 2 solid principles/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 2, 3 more obstacle added using abstract_factory_dp/week 3 abstract_factory.iml" filepath="$PROJECT_DIR$/week 2, 3 more obstacle added using abstract_factory_dp/week 3 abstract_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 3, burger build using builder_dp/week 4 burger using builder_dp.iml" filepath="$PROJECT_DIR$/week 3, burger build using builder_dp/week 4 burger using builder_dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 5 protobuf to xml using adapter dp/week 4 protobuj to xml using adapter dp.iml" filepath="$PROJECT_DIR$/week 5 protobuf to xml using adapter dp/week 4 protobuj to xml using adapter dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 1, project using all solid principles/week2.iml" filepath="$PROJECT_DIR$/week 1, project using all solid principles/week2.iml" />
     </modules>
   </component>
 </project>
