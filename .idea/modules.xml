@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/week3abstractfactory/week 3 abstract_factory.iml" filepath="$PROJECT_DIR$/week3abstractfactory/week 3 abstract_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week 4 burger update using builder_dp/week 4 burger using builder_dp.iml" filepath="$PROJECT_DIR$/week 4 burger update using builder_dp/week 4 burger using builder_dp.iml" />
       <module fileurl="file://$PROJECT_DIR$/week 2 solid principles/week2.iml" filepath="$PROJECT_DIR$/week 2 solid principles/week2.iml" />
     </modules>
   </component>
